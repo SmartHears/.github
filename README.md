@@ -1,1 +1,3 @@
-# .github
+# SmartHears
+
+## Epitech EIP Project
